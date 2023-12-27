@@ -1,0 +1,23 @@
+.logo {
+  display: block;
+  /* margin: auto; */
+  text-align: center;
+  /* border: 2px solid red; */
+}
+
+.section-link {
+ /* text-align: center; */
+ /* border: 3px solid green; */
+}
+
+.app-name-link img {
+ width: 90%;
+}
+
+.app-name {
+  margin-bottom: 0 !important;
+}
+
+.search {
+  margin-bottom: 18px !important;
+}
