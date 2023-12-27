@@ -1,6 +1,0 @@
-- [Repositories](/)
-- [Programação e Bases de Dados](/Programacao-e-Bases-de-Dados/README.md)
-- [Redes, Sistemas Operativos e Segurança](/Redes-Sistemas-Operativos-e-Segurança/README.md)
-- [Mundo Actual](/Mundo-Actual/README.md)
-- [Utilities](/Utilities/README.md)
-- [Portfolio](https://jpscorreia.github.io)
