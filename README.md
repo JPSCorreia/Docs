@@ -1,5 +1,5 @@
 # JPSCorreia Documents
 
-## [Visit](https:/jpscorreia.github.io/docs)
+## [Visit](https://jpscorreia.github.io/Docs/)
 
 ### **powered by docsify**
