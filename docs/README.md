@@ -11,9 +11,12 @@
   - [9963 - Web](https://github.com/JPSCorreia/9963-Web)
   - [0789 - Programação e Bases de Dados](https://github.com/JPSCorreia/0789-Programacao-e-bases-de-dados)
   - [0781 - Análise de Sistemas de Informação](https://github.com/JPSCorreia/0781-Analise-de-Sistemas-de-Informacao)
+  - [0782 - Programação em C](https://github.com/JPSCorreia/0782-Programacao-em-C)
 
 - Redes, Sistemas Operativos e Segurança
+  - [6192 - Sistema-Operativo-Linux](https://github.com/JPSCorreia/6192-Sistema-Operativo-Linux)
   - [0825 - Tipologias de Redes](https://github.com/JPSCorreia/0825-Tipologias-de-Redes)
+  - [0827 - Protocolos de Redes](https://github.com/JPSCorreia/0827-Protocolos-de-redes)
   - [0132 - Noções de Hardware e Sistemas Operativos para Multimédia](https://github.com/JPSCorreia/0132-Nocoes-de-Hardware-e-Sistemas-Operativos-para-Multimedia)
   
 - Mundo Actual

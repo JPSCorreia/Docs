@@ -161,6 +161,10 @@ programa {
 
 ## 9963 - Web
 
+- [Web Mockup](https://jpscorreia.github.io/web-mockup/)
+
 ## 0789 - Programação e Bases de Dados
 
 ## 0781 - Análise de Sistemas de Informação
+
+## 0782 - Programação em C
